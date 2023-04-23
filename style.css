@@ -1,0 +1,128 @@
+body{
+    margin:0%;
+    font-family: system-ui;
+ 
+}
+.background{
+    background-image: url(camper_cafee.jpg);
+    opacity: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:40rem;
+    /* background-position; */
+    padding-top: 1%;
+ 
+
+
+
+}
+.nav a:hover{
+    color: orange;
+}
+.nav a{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 1rem;
+    display: flex;
+ 
+}
+.nav ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    padding: 0 2rem;
+}
+.logo{
+    color: white;;
+    height:1rem;
+    padding: 0 1rem;
+    filter: brightness(0)invert(1);
+    margin-top: 5%;
+}
+.nav{
+    margin-left: 25%;
+    margin-top: 3%;
+
+    /* cursor: pointer; */
+    /* display: none; */
+}
+.van{
+    margin-left: 4%;
+}
+.van,p{
+    font-size: 3rem;
+    font-weight: lighter;
+    margin-bottom: 0%;
+}
+hr{
+    /* height: 1px; */
+    /* background-color: black;
+    border-color: black; */
+    width: 97%;
+    float: left;
+     
+}
+.van,h6{
+    font-weight: lighter;
+    margin-top:3%;
+    margin-right: 8%;
+}
+.p1{
+    font-weight: lighter;
+    font-size: medium;
+}
+.two{
+    display: flex;
+}
+.nava{
+    color:#868e96;
+}
+.services{
+    margin-top: 7%;
+    margin-left: 7%;
+    display: flex;
+     gap:7%;
+}
+
+.Insta{
+    background-image: url(smokey.jpg);
+    height: 6rem;
+    width: 90%;
+    opacity: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin-top: 4%;
+    padding: 0 5rem;
+}
+ .Insta{     
+text-align: center;
+/* margin-top: 12%; */
+padding: 4rem;
+font-weight: 800;
+ }
+ .Clients h1{
+    font-weight: lighter;
+    margin-left: 40%;
+
+ }
+ .Clients{
+    margin-left: 3%;
+ }
+ .clients_images{
+    height: 70px;
+    display: flex;
+    margin-top: 5%;
+ }
+ .footer{
+    display: flex;
+    gap: 55%;
+    background-color: black;
+    color: white;
+    height: 150px;
+    margin-top: 18px;
+    padding-top: 2rem;
+ }
+ 
+
+
